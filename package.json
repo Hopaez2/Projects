@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "My projects for Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hopaez2/Projects.git"
+  },
+  "author": "Hope Ngerebara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hopaez2/Projects/issues"
+  },
+  "homepage": "https://github.com/Hopaez2/Projects#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
